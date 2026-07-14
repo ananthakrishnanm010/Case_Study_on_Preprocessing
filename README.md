@@ -1,4 +1,4 @@
-# Case_Study_on_Preprocessing
+# Case_Studies
 # House Price Dataset Preprocessing
 
 ## Overview
